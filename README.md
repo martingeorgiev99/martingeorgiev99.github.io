@@ -1,3 +1,4 @@
-# Showcase Website github page
+# **showcaseWebsite**
+*First assignment of university - ICT Course*
 
-Using GitHub pages to host my first website
+[Website.png](https://postimg.cc/GBNzwgnB)
